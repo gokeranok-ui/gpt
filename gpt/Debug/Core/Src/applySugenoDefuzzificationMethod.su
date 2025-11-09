@@ -1,0 +1,5 @@
+applySugenoDefuzzificationMethod.c:24:6:c_applySugenoDefuzzificationMet	72	static
+applySugenoDefuzzificationMethod.c:57:6:d_applySugenoDefuzzificationMet	64	static
+applySugenoDefuzzificationMethod.c:89:6:e_applySugenoDefuzzificationMet	64	static
+applySugenoDefuzzificationMethod.c:125:6:f_applySugenoDefuzzificationMet	48	static
+applySugenoDefuzzificationMethod.c:151:6:g_applySugenoDefuzzificationMet	56	static

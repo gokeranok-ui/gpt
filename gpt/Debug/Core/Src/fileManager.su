@@ -1,0 +1,4 @@
+fileManager.c:11:20:filedata	24	static
+fileManager.c:31:13:cfopen	32	static
+fileManager.c:61:7:fileManager	32	static
+fileManager.c:74:6:filedata_init	4	static

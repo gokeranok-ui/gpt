@@ -1,0 +1,2 @@
+fuzzifyInputs.c:31:6:b_fuzzifyInputs	80	static
+fuzzifyInputs.c:115:6:fuzzifyInputs	72	static

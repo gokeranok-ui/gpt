@@ -1,0 +1,13 @@
+/*
+ * stm32469i_discovery_conf.h
+ *
+ *  Created on: Nov 5, 2025
+ *      Author: prizy
+ */
+
+#ifndef BSP_STM32469I_DISCOVERY_STM32469I_DISCOVERY_CONF_H_
+#define BSP_STM32469I_DISCOVERY_STM32469I_DISCOVERY_CONF_H_
+
+
+
+#endif /* BSP_STM32469I_DISCOVERY_STM32469I_DISCOVERY_CONF_H_ */
